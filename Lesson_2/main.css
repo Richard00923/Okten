@@ -1,6 +1,5 @@
 
-
-h1,h2,h3,h4,h5{
+h1, h2, h3, h4, h5 {
     color: #ffffff;
     display: flex;
     height: 100%;
@@ -13,48 +12,31 @@ h1,h2,h3,h4,h5{
 }
 
 .margin {
-    margin: 34px 30px;
+    display: flex;
+    row-gap: 10px;
+    flex-direction: column;
+    align-items: center;
 }
 
-.colorBox {
+.colorBox, .colorBox2 {
     box-sizing: border-box;
     width: 572px;
     height: 250px;
     background: #3b6bc7;
     border-radius: 5px;
 }
-.top{
-    margin-top: 10px;
-}
-.bottom{
-    margin-bottom: 10px;
-}
-.margin1{
 
-    border-radius: 5px;
-    margin-right: 5px;
+.colorBox2 {
+    height: 350px;
 }
-.margin2{
-    background-color: #EEDDFF;
 
-    border-radius: 5px;
-    margin-left: 5px;
-    margin-right: 5px;
-}
-.margin3{
-    background-color: #EEDDFF;
 
-    border-radius: 5px;
-    margin-left: 5px;
-
-}
 .container {
-    box-sizing: border-box;
-    width: 572px;
-    height: 250px;
+    box-sizing: border-box;erwerewr
+
     display: flex;
-    align-items: flex-start;
-    justify-content: space-evenly;
+    justify-content: space-between;
+    column-gap: 10px;
 }
 
 .midlebox {
@@ -62,13 +44,7 @@ h1,h2,h3,h4,h5{
     background: #1f2f6e;
     display: flex;
     height: 250px;
-    width: 192px;
+    width: 100%;
     border-radius: 5px;
 }
-.colorBox2 {
-    box-sizing: border-box;
-    width: 572px;
-    height: 350px;
-    background: #3b6bc7;
-    border-radius: 5px;
-}
+
