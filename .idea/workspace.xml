@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d0636a1-0233-4303-b23a-d7a1504b13e5" name="Changes" comment="yeaa">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_2/Lesson_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_2/Lesson_2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lesson_2/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_2/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="lesson_1" />
+        <entry key="$PROJECT_DIR$" value="Lesson2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,16 +38,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/intellij_Projekt/HTML-CSS",
-    "list.type.of.created.stylesheet": "CSS"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/intellij_Projekt/HTML-CSS&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\intellij_Projekt\Lesson1\Lesson_1" />
@@ -64,7 +66,8 @@
       <workItem from="1657289219402" duration="162000" />
       <workItem from="1657295963418" duration="170000" />
       <workItem from="1657296240282" duration="323000" />
-      <workItem from="1657296669209" duration="1540000" />
+      <workItem from="1657296669209" duration="1919000" />
+      <workItem from="1657300799766" duration="2692000" />
     </task>
     <task id="LOCAL-00001" summary="yeaa">
       <created>1657070225084</created>
@@ -101,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657297937001</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="yeaa">
+      <created>1657298456171</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1657298456171</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
