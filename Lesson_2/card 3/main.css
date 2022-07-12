@@ -1,0 +1,39 @@
+.bigDiv {
+    background: #002aff;
+    display: flex;
+    flex-direction: row;
+    column-gap: 20px;
+    justify-content: center;
+}
+.sizeText{
+
+    font-size: 40px;
+}
+.h{
+    color: yellow;
+    font-size: 12px;
+}
+.marginBottom {
+    margin-bottom: 20px;
+}
+.white{
+    background: white;
+}
+.middleDiv {
+    display: flex;
+    align-items: center;
+    height: 200px;
+    width: 200px;
+}
+
+.red {
+    background: crimson;
+}
+
+.green {
+    background: #22ff00;
+}
+
+.yellow {
+    background: yellow;
+}
