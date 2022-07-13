@@ -1,0 +1,60 @@
+.bigDiv{
+    text-align: center;
+    border: solid black 2px;
+    height: 300px;
+    width: 340px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 90px;
+    margin: 60px 0 0;
+
+
+
+}
+p{
+    font-size: 20px;
+    line-height: 1.5;
+    color: #9f9f9f;
+    margin: 0 18px;
+}
+.miniBlock{
+    height: 40px;
+    width: 180px;
+    border: solid black 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+
+}
+.father{
+    margin-top: 30px;
+    display: flex;
+    grid-gap: 30px;
+    justify-content: center;
+
+}
+.flex{
+    display: flex;
+    position: absolute;
+    grid-gap: 245px;
+}
+.ico{
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    border: solid black 2px;
+    background: white;
+    margin-top: -10px;
+}
+.sizeIco{
+    font-size: 70px;
+    text-align: center;
+ margin-top: 20px;
+}
+.sizeIcoTor{
+    font-size: 55px;
+    text-align: center;
+    margin-top: 30px;
+}

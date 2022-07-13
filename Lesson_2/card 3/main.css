@@ -1,9 +1,12 @@
 .bigDiv {
-    background: #002aff;
+
     display: flex;
     flex-direction: row;
     column-gap: 20px;
     justify-content: center;
+}
+.father{
+    background: #002aff;
 }
 .sizeText{
 
