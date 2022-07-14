@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+}
+
+.father {
+    margin: auto;
+    position: relative;
+    width: 1000px;
+}
+
+.up {
+    height: 300px;
+    width: 100%;
+    background: #a4eafc;
+    display: flex;
+    justify-content: center;
+    column-gap: 600px;
+    align-items: center;
+}
+
+.middle {
+    height: 500px;
+    width: 1000px;
+    background: #213aff;
+    display: flex;
+    align-items: center;
+    column-gap: 40px;
+    justify-content: center;
+
+
+}
+
+.miniBlock {
+    background: #3249e1;
+    height: 60px;
+    border-radius: 5px;
+    width: 145px;
+}
+
+.ico {
+    font-size: 60px;
+}
+
+.flex {
+    display: flex;
+    gap: 20px;
+}
+
+.content {
+    border-radius: 5px;
+    margin-bottom: -520px;
+    background: yellow;
+    width: 145px;
+    height: 120px;
+}
