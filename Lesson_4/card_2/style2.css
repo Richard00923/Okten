@@ -8,33 +8,39 @@ body{
 .h33{
     height: 32vh;
 }
+.style{
+    background-image: linear-gradient(white, black);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;  /* <- here it is */
+}
 .a{
     position: relative;
     top: 1vh;
-    background: dimgrey;
-    width: 100vh;
+    /*background: dimgrey;*/
+    width: 100vw;
     margin: 0 auto;
 }
 .middle ,.content_c_b_e{
-    column-gap: 1vh;
+    column-gap: 1vw;
     display: flex;
 }
 .b{
     margin: 1vh 0;
-    background: #9f9f9f;
-    width: 75vh;
+    /*background: #9f9f9f;*/
+    width: 75vw;
 }
 .c ,.d ,.e{
-    background: rgb(0,0,0);
-    background: radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(106,106,106,1) 100%, rgba(0,0,0,1) 100%);
-    width: 24.25vh;
+    /*background: rgb(0,0,0);*/
+    /*background: radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(106,106,106,1) 100%, rgba(0,0,0,1) 100%);*/
+    width: 24.25vw;
 }
 .f{
     position: relative;
     top: 1vh;
-    background: #595959;
+    /*background: #595959;*/
     margin: 0;
-    width: 24.25vh;
+    width: 24.25vw;
     height: 65vh;
 }
 .centre{
@@ -51,12 +57,12 @@ body{
     .b {
         position: relative;
         top: 1vh;
-        width: 100vh;
+        width: 100vw;
         margin: 0 auto;
     }
 
     .c, .d, .e {
-        width: 20vh;
+        width: 20vw;
         height: 20vh;
 
     }
@@ -72,8 +78,7 @@ body{
     }
     .f{
         position: relative;
-        background: dimgrey;
-        width: 100vh;
+        width: 100vw;
         margin: 0 auto;
         height:18vh;
         top: 5vh;

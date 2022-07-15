@@ -1,30 +1,20 @@
-.father{
-    height: 900px;
-    width: 800px;
-    border: solid green 2px;
-    margin: auto;
-}
-.size_ico{
+body{
     display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 60px;
-    color: red;
-    height: 100%;
-    width: 100px;
 }
-.card{
-    height: 200px;
-    width: 380px;
-    border: solid red 2px;
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
-
+.a,.b,.c{
+    height: 300px;
+    width: 300px;
+    background-image: linear-gradient(white, black);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;  /* <- here it is */
 }
-.text{
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+.a{
+    background: black;
+}
+.c{
+    background: #9f9f9f;
+}
+.b{
+    background: #002aff;
 }
